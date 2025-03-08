@@ -1,3 +1,5 @@
+<img src="/Walmart.png" alt="Walmart"/>
+
 # Walmart Sales Data - SQL Project
 
 ## Overview
